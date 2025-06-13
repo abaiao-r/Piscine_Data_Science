@@ -4,11 +4,11 @@ This repository contains a collection of projects focused on various aspects of 
 
 ## Table of Contents
 
-- [Project 01 - Data Engineer](https://github.com/abaiao-r/Project_Data_Engineer)
-- [Project 02 - Data Warehouse](https://github.com/abaiao-r/Project_Data_Warehouse)
-- [Project 03 - Data Analyst](https://github.com/abaiao-r/Project_Data_Analyst)
-- [Project 04 - Data Scientist Part 1](https://github.com/abaiao-r/Project_Data_Scientist_Part_1)
-- [Project 05 - Data Scientist Part 2](https://github.com/abaiao-r/Project_Data_Scientist_Part_2)
+- [Piscine Data Science - 0 Creation of a DB](https://github.com/abaiao-r/Piscine_DataScience_0_Creation_of_a_DB)
+- [Training Piscine Data Science - 1 Data Warehouse](https://github.com/abaiao-r/Training_Piscine_DataScience_1_Data_Warehouse)
+- [Training Piscine Data Science - 2 Data Visualization](https://github.com/abaiao-r/Training_Piscine_DataScience_2_Data_Viz)
+- [Training Piscine Data Science - 3 The Present](https://github.com/abaiao-r/Training_Piscine_DataScience_3_The_Present)
+- [Training Piscine Data Science - 4 The Future](https://github.com/abaiao-r/Training_Piscine_DataScience_4_The_Future)
 
 ## Keywords
 - Data Science
